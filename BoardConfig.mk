@@ -29,7 +29,7 @@ USE_CAMERA_STUB := true
 -include device/htc/msm7x30-common/BoardConfigCommon.mk
 
 # inherit from the proprietary version
--include vendor/htc/ace/BoardConfigVendor.mk
+-include vendor/htc/glacier/BoardConfigVendor.mk
 
 TARGET_BOOTLOADER_BOARD_NAME := glacier
 
